@@ -48,4 +48,3 @@ jobs:
             pre-commit run --files $files
           else
             echo "No modified files to check."
-          fi
